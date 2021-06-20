@@ -1,0 +1,2 @@
+# galyze
+A discord bot
